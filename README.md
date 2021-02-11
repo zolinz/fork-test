@@ -35,3 +35,5 @@ update feature 05 -01
 update feature 05 -02
 
 update feature 06 -01
+
+update feature 06 -02
